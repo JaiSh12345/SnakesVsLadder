@@ -1,7 +1,7 @@
 # SnakesVsLadder
 
 Welcome to Snakes and Ladders. Let's play!
-For discussion and planning, see (planning)[https://github.com/JaiSh12345/SnakesVsLadder/blob/documentation/planning/PLANNING.md].
+For discussion and planning, see [planning](https://github.com/JaiSh12345/SnakesVsLadder/blob/documentation/planning/PLANNING.md).
 
 >## About:
 
