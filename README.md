@@ -10,7 +10,7 @@ A small game project in the little free time we have. XD
 Yet to be decided.
 
 >## Layout:
-![Layout](Planning/Branches.png)
+![Layout](https://github.com/JaiSh12345/SnakesVsLadder/blob/documentation/planning/Branches.png)
 
 >## Organisation:
 Yet to be decided.
